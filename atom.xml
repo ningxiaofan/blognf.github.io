@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>N F</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-10-26T11:53:29.601Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Fan Ning</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://example.com/2025/10/26/My-New-Post/"/>
+    <id>http://example.com/2025/10/26/My-New-Post/</id>
+    <published>2025-10-26T11:53:29.000Z</published>
+    <updated>2025-10-26T11:53:29.601Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hel swc</title>
+    <link href="http://example.com/2025/10/25/hello-world/"/>
+    <id>http://example.com/2025/10/25/hello-world/</id>
+    <published>2025-10-25T05:56:48.307Z</published>
+    <updated>2025-10-27T01:27:43.229Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
