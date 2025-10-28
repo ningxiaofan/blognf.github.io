@@ -2723,9 +2723,6 @@ pre .javascript .function {
   font-size: 18px;
   font-weight: bold;
 }
-#waifu-toggle {
-  z-index: 1;
-}
 .sidebar-top {
   position: fixed;
   bottom: 30px;
