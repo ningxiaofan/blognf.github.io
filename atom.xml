@@ -18,8 +18,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="https://nfblog.qzz.io/2025/10/26/My-New-Post/"/>
-    <id>https://nfblog.qzz.io/2025/10/26/My-New-Post/</id>
+    <link href="http://example.com/2025/10/26/My-New-Post/"/>
+    <id>http://example.com/2025/10/26/My-New-Post/</id>
     <published>2025-10-26T11:53:29.000Z</published>
     <updated>2025-10-26T11:53:29.601Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hel swc</title>
-    <link href="https://nfblog.qzz.io/2025/10/25/hello-world/"/>
-    <id>https://nfblog.qzz.io/2025/10/25/hello-world/</id>
+    <link href="http://example.com/2025/10/25/hello-world/"/>
+    <id>http://example.com/2025/10/25/hello-world/</id>
     <published>2025-10-25T05:56:48.307Z</published>
     <updated>2025-10-27T01:27:43.229Z</updated>
     
