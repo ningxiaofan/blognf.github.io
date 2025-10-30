@@ -6,7 +6,7 @@
   <link href="https://nfblog.qzz.io/atom.xml" rel="self"/>
   
   <link href="https://nfblog.qzz.io/"/>
-  <updated>2025-10-26T11:53:29.601Z</updated>
+  <updated>2025-10-30T07:39:43.946Z</updated>
   <id>https://nfblog.qzz.io/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="https://nfblog.qzz.io/2025/10/26/My-New-Post/"/>
-    <id>https://nfblog.qzz.io/2025/10/26/My-New-Post/</id>
-    <published>2025-10-26T11:53:29.000Z</published>
-    <updated>2025-10-26T11:53:29.601Z</updated>
+    <title>备用地址</title>
+    <link href="https://nfblog.qzz.io/2025/10/26/%E5%A4%87%E7%94%A8%E5%9C%B0%E5%9D%80/"/>
+    <id>https://nfblog.qzz.io/2025/10/26/%E5%A4%87%E7%94%A8%E5%9C%B0%E5%9D%80/</id>
+    <published>2025-10-26T11:53:29.600Z</published>
+    <updated>2025-10-30T07:39:43.946Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;备用地址：&lt;a</summary>
+        
+      
     
     
     
@@ -30,18 +38,18 @@
   </entry>
   
   <entry>
-    <title>Hel swc</title>
-    <link href="https://nfblog.qzz.io/2025/10/25/hello-world/"/>
-    <id>https://nfblog.qzz.io/2025/10/25/hello-world/</id>
-    <published>2025-10-25T05:56:48.307Z</published>
-    <updated>2025-10-27T01:27:43.229Z</updated>
+    <title>国内虚拟机ubuntu中安装Docker和Docker Compose</title>
+    <link href="https://nfblog.qzz.io/2025/10/25/%E5%9B%BD%E5%86%85%E8%99%9A%E6%8B%9F%E6%9C%BAubuntu%E4%B8%AD%E5%AE%89%E8%A3%85Docker%E5%92%8CDocker%20Compose/"/>
+    <id>https://nfblog.qzz.io/2025/10/25/%E5%9B%BD%E5%86%85%E8%99%9A%E6%8B%9F%E6%9C%BAubuntu%E4%B8%AD%E5%AE%89%E8%A3%85Docker%E5%92%8CDocker%20Compose/</id>
+    <published>2025-10-25T04:26:06.919Z</published>
+    <updated>2025-10-30T07:33:36.873Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h6 id=&quot;在此之前如果未接触过服务器命令，请查看vim的修改和保存命令，本文基于vim进行修改文件&quot;&gt;&lt;a href=&quot;#在此之前如果未接触过服务器命令，请查看vim的修改和保存命令，本文基于vim进行修改文件&quot; class=&quot;headerlink&quot;</summary>
         
       
     
